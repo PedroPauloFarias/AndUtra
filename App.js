@@ -6,7 +6,7 @@ import { createNativeStackNavigator } from "@react-navigation/native-stack";
 //importação das paginas//
 import Homes from "./src/pages/Homes";
 import Sobre from "./src/pages/Sobre";
-import Recomendados, {  } from "./src/pages/Recomendados";
+import Recomendados from "./src/pages/Recomendados";
 
 const Stack = createNativeStackNavigator();
 
